@@ -19,7 +19,7 @@ Why is this repo existed? Explain like I'm 5.
   - I found it flawed the hard way
   - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and i found one against such on a FAQ.
 
-Why is piracy justified despide it's illegal? How can Mojang / Nintendo fix that?
+Why is piracy justified despite it's illegal? How can Mojang / Nintendo fix that?
 - As previous, piracy is illegal because it is a form of unaurthorized distribution.
 - however, right now people risk it because pirated copy give out more flexibility than paid versions, it innovates. By just pirating it and then patching it, or just download the patched version.
 - To get it fixed, developers have to make paid versions in par of pirated copies (by adding features to official versions that pirated copies had, and removing restrictions against freedom on official versions, where pirated copies do not.), **NOT PIRATED COPIES IN PAR WITH PAID VERSIONS**. Or to make piracy unjustifiable, we should add features that pirated copies had, to official versions and removing restrictions against freedom in official versions that pirated copies did not. **Brute-forcing a way to make anti-piracy more powerful, threatening a take-down while not lifting off restrictions on official versions are not a solution, and is violence, a waste of money and full-on retarded behavior.**
