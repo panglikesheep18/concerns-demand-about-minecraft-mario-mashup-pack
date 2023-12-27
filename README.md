@@ -3,12 +3,8 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
 
 # QNA
 
-## Will you put contents from Super Mario Mash-up Pack there?
-- No, because then this will not be a honeypot and getting it removed for DMCA violation will be fully justified.
-- Piracy is morally correct in this case but it's still illegal regardless it's moral or not, because it is a form of unaurthorized distribution, even thoough this gives out the oppounity for users who do not wish to use / own Nintendo Switch, but still want to play the mash-up pack, to be able to play on PC and mobile.
-
-## Why is this repo existed? Explain like I'm 5.
-- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I found an exploit, I made a bug report for that, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and told me to blame Nintendo, went toxic and ghost / ban me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. I had to call them out.
+## Why is this file existed? Explain like I'm 5.
+- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I found an exploit, I made a bug report for that, I upvoted <a href=https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup> one "suggession" in Minecraft Feedback</a>, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and told me to blame Nintendo, went toxic and ghost / ban me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. I had to call them out.
 - For PC it's Microsoft Windows (and Apple MacOS if there were one), for mobile it's iOS, iPadOS, Android and Fire
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
@@ -50,6 +46,6 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
  - source: https://www.minecraft.net/en-us/article/better-together-faq
 
  - Also there are no mentions of LittleBigPlanet Mash-up Pack being platform-restricted.  
- - contents you want to restrict if you want to be evil.
+ - ...And contents you want to restrict if you want to be evil.
   
  - It is a flag that prevents players from using it in multiplayer, which so it is to "avoid potential licensing issues", however these contents are straight-up ported to other versions of the game (from Console to Bedrock) so it's ironic to not fix these things up.
