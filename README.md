@@ -5,7 +5,7 @@ QNA
 
 Will you put contents from Super Mario Mash-up Pack there?
 - No, because then this will not be a honeypot and getting it removed for DMCA violation will be fully justified.
-- Piracy is morally correct in this case but it's still illegal regardless it's moral or not, because it is a form of unaurthorized distribution, even thoough this gives out the oppounity for users who do not wish to use Nintendo Switch to be able to use more freely on mobile.
+- Piracy is morally correct in this case but it's still illegal regardless it's moral or not, because it is a form of unaurthorized distribution, even thoough this gives out the oppounity for users who do not wish to use / own Nintendo Switch, but still want to play the mash-up pack, to be able to play on PC and mobile.
 
 Why is this repo existed? Explain like I'm 5.
 - I made a bug report, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and told me to blame Nintendo, went toxic and ghost / ban me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. I had to call them out.
@@ -13,16 +13,21 @@ Why is this repo existed? Explain like I'm 5.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
 - the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons:
-  - Piracy issue because it's not available in Minecraft Marketplace in the first place and pirating it right is the only solution to give more freedom of use.
+  - Piracy issue because it's not available in Minecraft Marketplace in the first place and pirating it right now is the only solution for cross-platform usage.
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail, unlike contents in Minecraft Marketplace
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one.
   - I found it flawed the hard way
   - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and i found one against such on a FAQ.
 
-Why is piracy justified despide it's illegal? How can the developers fix that?
+Why is piracy justified despide it's illegal? How can Mojang / Nintendo fix that?
 - As previous, piracy is illegal because it is a form of unaurthorized distribution.
 - however, right now people risk it because pirated copy give out more flexibility than paid versions, it innovates. By just pirating it and then patching it, or just download the patched version.
 - To get it fixed, developers have to make paid versions in par of pirated copies (by adding features to official versions that pirated copies had, and removing restrictions against freedom on official versions, where pirated copies do not.), **NOT PIRATED COPIES IN PAR WITH PAID VERSIONS**. Or to make piracy unjustifiable, we should add features that pirated copies had, to official versions and removing restrictions against freedom in official versions that pirated copies did not. **Brute-forcing a way to make anti-piracy more powerful, threatening a take-down while not lifting off restrictions on official versions are not a solution, and is violence, a waste of money and full-on retarded behavior.**
+
+Did Nintendo use Super Mario Mash-up Pack as a promotion for Minecraft (for Nintendo Switch)?
+- Yes, I found some Minecraft Promotion in Nintendo that used Super Mario Mash-up Pack, in 2023, like
+- https://www.youtube.com/watch?v=DmYAKpGo-B0
+- https://twitter.com/NintendoAmerica/status/1620527350344450050
 
 Platform Restriction DRM (hardest call-out question)
 
@@ -45,8 +50,3 @@ What other contents were affected by `"platform_lock": true` and what is it?
  - However there are no mentions of Super Mario Mash-up Pack.
   
  - It is a flag that prevents players from using it in multiplayer, which so it is to "avoid potential licensing issues", however these contents are straight-up ported to other versions of the game (from Console to Bedrock) so it's ironic to not fix these things up.
-
-Did Nintendo use uper Mario Mash-up Pack as a promotion for Minecraft (for Nintendo Switch)?
-- Yes, I found some Minecraft Promotion in Nintendo that used Super Mario Mash-up Pack, in 2023, like
-- https://www.youtube.com/watch?v=DmYAKpGo-B0
-- https://twitter.com/NintendoAmerica/status/1620527350344450050
