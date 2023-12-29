@@ -2,18 +2,26 @@
 If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no content is included even in multiple resporities.
 
 # QNA
+## Will you put contents from Super Mario Mash-up Pack there?
+- No, because then this will not be a honeypot and getting it removed for DMCA violation will be fully justified.
+- Piracy is morally correct in this case but it's still illegal regardless it's moral or not, because it is a form of unaurthorized distribution, even thoough this gives out the oppounity for users who do not wish to use Nintendo Switch to be able to use more freely on mobile and PC.
+- i don't know if the extra $10 in Minecraft for Nintendo Switch is the cost of Super Mario Mash-up Pack, or it was the tax and the mash-up pack was actually free by using the word "include", either way i paid for it or i claimed that so i own it, but then i would either risk rich <a href=https://en.wikipedia.org/wiki/Karen_(slang)>karen</a> threats for putting in or community backlash for not putting in. and since there's multiples of that in the internet, i am not going to risk rich <a href=https://en.wikipedia.org/wiki/Karen_(slang)>karen</a> threats for putting it in anyways.
 
 ## Why is this file existed? Explain like I'm 5.
-- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I found an exploit, I made a bug report for that, I upvoted <a href=https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup> one "suggession" in Minecraft Feedback</a>, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and told me to blame Nintendo, went toxic and ghost / ban me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. I had to call them out.
-- For PC it's Microsoft Windows (and Apple MacOS if there were one), for mobile it's iOS, iPadOS, Android and Fire
+- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I found an exploit, I made a bug report for that, I upvoted <a href=https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup> one "suggession" in Minecraft Feedback</a>, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and told me to blame Nintendo, went toxic and ghost / mute me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. I had to call them out.
+- For PC it's Microsoft Windows (and Apple MacOS if there were one), for mobile it's iOS, iPadOS, Android and Fire.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
-- the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons:
-  - Piracy issue because it's not available in Minecraft Marketplace in the first place and pirating it right now is the only solution for cross-platform usage.
+### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons:
+  - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace in the first place and pirating it right now is the only solution for cross-platform usage.
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail, unlike current licensed contents in Minecraft Marketplace
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and all profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
   - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer or I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
+
+
+## Wait, who made Super Mario Mash-up Pack?
+- In my opinion, Mojang Studios, 4J Studios and Nintendo made the mash-up pack, with Nintendo licensing it.
 
 ## Why is piracy justified despite it's illegal? How can Mojang fix that?
 - As previous, piracy is illegal because it is a form of unaurthorized distribution.
