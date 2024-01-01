@@ -14,7 +14,7 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
   
 ### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons:
   - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace in the first place and pirating it right now is the only solution for cross-platform usage.
-  - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail, unlike current licensed contents in Minecraft Marketplace
+  - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail, but on general in settings, unlike current licensed contents in Minecraft Marketplace
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and all profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
   - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer or I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
@@ -23,12 +23,26 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
 ## Wait, who made Super Mario Mash-up Pack?
 - In my opinion, Mojang Studios, 4J Studios and Nintendo made the mash-up pack, with Nintendo licensing it.
 
+## Hold up, RTX feature (such as Ray-tracing) is currently PC-exclusive, can you tell me a difference between it and the Super Mario Mash-up Pack? (as a Microsoft Windows PC user)
+- Super Mario Mash-up Pack is the DLC / mash-up pack currently included only on Nintendo Switch, while ray-tracing is a feature that currently requires NVIDIA GeForce RTX or AMD Radeon RX 6000 or better to work.
+
+- Currently, you can buy an NVIDIA GeForce RTX / AMD Radeon RX graphics card for your PC but you cannot buy Super Mario Mash-up Pack or even download one to your PC unless you download one from the internet, the only legal way if you won't use PC is to buy a Nintendo hardware, which has weak hardware.
+
+- Also, although RTX-enabled worlds cannot be downloaded thus be created on devices without ray-tracing hardware and support, players who don't have ray-tracing hardware and support (even mobile) can join players with ray-tracing hardware whose playing RTX-enabled worlds. However Super Mario Mash-up Pack not only can't be created on PC because it's not available to Minecraft Marketplace, on Nintendo Switch, it's resource pack also forcefully disables cross-platform multiplayer so it can only be joined by players on Nintendo Switches, and it cannot be reverted even by deleting the one a world has cached with, so you cannot play with players that are on PC or even mobile.
+
+- players who use Android devices, XBOX players and PC players who play Minecraft Preview but does not have a ray-tracing hardware / support can alternatively use Deferred Rendering (Ray-tracing-like custom shaders if put with ray-tracing enabled resource packs).
+
+- TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, breaks ability for future cross-platform multiplayer if the pack was used on a world once, and there's no alternatives or workarounds unless leaglity is not a factor.
+
+- source: https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.
+
 ## Why is piracy justified despite it's illegal? How can Mojang fix that?
-- As previous, piracy is illegal because it is a form of unaurthorized distribution.
-- however, right now people risk it because pirated copy give out more flexibility than paid versions, it innovates. By just pirating it and then patching it, or just download the patched version.
+- As previous, piracy is illegal because it is a form of unaurthorized distribution. Not only that, you will get into shady websites that has potential malwares.
+- however, right now people risk it because pirated copy give out more flexibility than paid, official versions, it now innovates more than official versions. By just pirating it and then patching it, or just download the patched version, pirates can use it more freely than those who bought for official versions.
+
 - To get it fixed, Mojang have to make paid versions in par of pirated copies (by adding features to official versions that pirated copies had, and removing restrictions against freedom on official versions, where pirated copies do not.), **NOT PIRATED COPIES IN PAR WITH PAID VERSIONS**. Or to make piracy unjustifiable, we should add features that pirated copies had, to official versions and removing restrictions against freedom in official versions that pirated copies did not. **Brute-forcing a way to make anti-piracy more powerful, threatening a take-down while not lifting off restrictions on official versions are not a solution, and is violence, a waste of money and full-on retarded behavior.**
 
-## Did Nintendo use Super Mario Mash-up Pack as a promotion for Minecraft (for Nintendo Switch)?
+## Did Nintendo use Super Mario Mash-up Pack as a promotion for Minecraft (for Nintendo Switch) in 2023?
 - Yes, I found some Minecraft Promotion in Nintendo that used Super Mario Mash-up Pack, in 2023, like
 - https://www.youtube.com/watch?v=DmYAKpGo-B0
 - https://twitter.com/NintendoAmerica/status/1620527350344450050
@@ -37,9 +51,9 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
 # Platform Restriction DRM (hardest call-out question, Companies might get angry for me calling them out)
 
 ## What restrictions did Mojang put so it tells the game that the content is platform / multiplayer restricted?
-- `"platform_lock": true` (https://www.reddit.com/r/NintendoSwitch/comments/70vu0u/how_the_super_mario_pack_will_be_restricted_in/) and `"pack_scope": "world"` (https://bugs.mojang.com/browse/MCPE-160631)
+- `"platform_lock": true` (source: https://www.reddit.com/r/NintendoSwitch/comments/70vu0u/how_the_super_mario_pack_will_be_restricted_in/) and `"pack_scope": "world"` (source: https://bugs.mojang.com/browse/MCPE-160631)
 - For `"platform_lock"`, when it's set to true, on the resource pack, behavior pack or skin-pack, and you use one of them, Minecraft will forcefully disable multiplayer or cross-platform multiplayer depending which platform you use.
-- wheres `"pack_scope"` is used to limit where the resource pack can be used in, if it's set to `"global"`, the pack will be restricted to only be used as global resource and `"world"` will restrict it to only be used in the world. it's stupid that it's "Working as Intended" when it is set-up as an anti-feature for customization on-device only! (https://bugs.mojang.com/browse/MCPE-160631)
+- wheres `"pack_scope"` is used to limit where the resource pack can be used in, if it's set to `"global"`, the pack will be restricted to only be used as global resource and `"world"` will restrict it to only be used in the world. it's stupid that it's "Working as Intended" when it is set-up as an anti-feature for customization on-device only! (source: https://bugs.mojang.com/browse/MCPE-160631) update: some UI on the menu are not changed.
 - Mojang / Nintendo could've updated the license, removed restrictions, updated it's thumbnail to have the license shown up, and have it put to Minecraft Marketplace, **it's stupid easy, it only takes 3 weeks maximum**
 
 ## What other contents were affected by `"platform_lock": true` and what is it?
