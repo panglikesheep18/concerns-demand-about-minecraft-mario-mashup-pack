@@ -13,11 +13,12 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
 ### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons:
-  - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace in the first place and pirating it right now is the only solution for cross-platform usage.
-  - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail, but on general in settings, unlike current licensed contents in Minecraft Marketplace
+  - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace in the first place and pirating it and getting it patched right now is the only solution for cross-platform usage.
+  - I found the <a href=https://bugs.mojang.com/browse/MCPE-163175>exploit that would be benefitial to the community</a> if the platform-restriction anti-feature itself were removed (Private, Marked as "Fixed" since early 2024, even though it was by adding the platform-restriction anti-feature detection to event servers to users in mid 2023)
+  - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and all profits of the mash-up pack can go to Nintendo.
-  - The physical game box of Minecraft for Nintendo Switch, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
-  - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer or I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
+  - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
+  - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
 
 
 ## Wait, who made Super Mario Mash-up Pack?
@@ -70,4 +71,4 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
  - Also there are no mentions of LittleBigPlanet Mash-up Pack being platform-restricted.  
  - ...And contents you want to restrict if you want to be evil.
   
- - It is a flag that prevents players from using it in multiplayer, which so it is to "avoid potential licensing issues", however these contents are straight-up ported to other versions of the game (from Console to Bedrock) so it's ironic to not fix these things up.
+ - It is a flag that prevents players from using it in multiplayer, which so it is to "avoid potential licensing issues", however these contents are straight-up ported to other versions of the game (from Console Edition to Bedrock for console) so i think it's ironic to say it was "licensing issue" when you ported the contents from one to another, even though they serve the same purpose.
