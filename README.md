@@ -24,6 +24,16 @@ This is about a call-out about Mojang and Nintendo that they are taking piracy i
     - the physical game box on mine isn't changed yet, although the digital, default version of the game no longer said that it included Super Mario Mash-up Pack (due to enshittification), Deleuxe version and physical box of the game said so without adding any disclaimer, having to have players (including me) then find out they were forcefully set multiplayer from cross-platform, to platform-specific at best, or forcefully disable all multiplayer at worst, and only to get worsened in the FAQ, if FAQs were the EULA, this would be an example of EULA roofing (EULA roofying).
     - overall their moves made the claim very inconsistent.
 
+#### Proof of one the clearest answer (for real) replied from Minecraft Help (Minecraft Support) sent from me in October 2023 
+
+<img width=80% alt="The question created in October 2023" src="https://github.com/panglikesheep18/minecraft-mario-mashup-pack/assets/94123276/f4e7783e-9323-41b2-a0b3-eeb04d443bf5">
+
+- the question is created back in October 2023, as you look at the image, with some of the reasons that's put above.
+
+<img width=80% alt="Clearest answer regarding Super Mario Mash-up Pack not being put to Minecraft Marketplace, one Minecraft Help Staff proved it's due to licensing issues, so i photoshopped a red rectangle outside the licensing issue for people to traget, also, despite me only saying people were porting the mash-up pack, they said they don't give support about third-party sites and launchers, and do not give support to those who are playing the game on VMs (emulators) and gave me a now-broken link to third-party services and websites (that would go to Minecraft: Java Edition Account Security FAQ)" src="https://github.com/panglikesheep18/minecraft-mario-mashup-pack/assets/94123276/712f7921-a92f-498e-80a5-453a8a90ce46">
+
+- On the image, the root reason is in the red rectangle, and i've shortened the other reasons that's not on red rectangle for you to look for.
+
 ## Wait, who made Super Mario Mash-up Pack?
 - In my opinion, Mojang Studios, 4J Studios and Nintendo made the mash-up pack, with Nintendo licensing it.
 
