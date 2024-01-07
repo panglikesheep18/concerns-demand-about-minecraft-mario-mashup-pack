@@ -1,5 +1,6 @@
 # minecraft-mario-mashup-pack
 If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no content is included even in multiple resporities.
+This is about a call-out about Mojang and Nintendo that they are taking piracy in joking and / or retarded way
 
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
@@ -15,25 +16,27 @@ If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no
 ### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons:
   - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace in the first place and pirating it and getting it patched right now is the only solution for cross-platform usage.
   - I found the <a href=https://bugs.mojang.com/browse/MCPE-163175>exploit that would be benefitial to the community</a> if the platform-restriction anti-feature itself were removed (Private, Marked as "Fixed" since early 2024, even though it was by adding the platform-restriction anti-feature detection to event servers to users in mid 2023)
-  - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace
-  - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and all profits of the mash-up pack can go to Nintendo.
+  - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace (this is the most obivious without any cracking, just buy a Nintendo Switch, the game and a licensed content from Minecraft Marketplace.)
+  - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
-  - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
-
+  - They could've kept the claim consistent if it was not "Licensing issue" BS.
+    - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
+    - the physical game box on mine isn't changed yet, although the digital, default version of the game no longer said that it included Super Mario Mash-up Pack (due to enshittification), Deleuxe version and physical box of the game said so without adding any disclaimer, having to have players (including me) then find out they were forcefully set multiplayer from cross-platform, to platform-specific at best, or forcefully disable all multiplayer at worst, and only to get worsened in the FAQ, if FAQs were the EULA, this would be an example of EULA roofing (EULA roofying).
+    - overall their moves made the claim very inconsistent.
 
 ## Wait, who made Super Mario Mash-up Pack?
 - In my opinion, Mojang Studios, 4J Studios and Nintendo made the mash-up pack, with Nintendo licensing it.
 
 ## Hold up, RTX feature (such as Ray-tracing) is currently PC-exclusive, can you tell me a difference between it and the Super Mario Mash-up Pack? (as a Microsoft Windows PC user)
-- Super Mario Mash-up Pack is the DLC / mash-up pack currently included only on Nintendo Switch, while ray-tracing is a feature that currently requires NVIDIA GeForce RTX or AMD Radeon RX 6000 or better to work.
+- Officially, Super Mario Mash-up Pack is the DLC / mash-up pack currently included (bundled) only on Nintendo Switch, while ray-tracing is a feature that currently requires NVIDIA GeForce RTX or AMD Radeon RX 6000 or better to work.
 
-- Currently, you can buy an NVIDIA GeForce RTX / AMD Radeon RX graphics card for your PC but you cannot buy Super Mario Mash-up Pack or even download one to your PC unless you download one from the internet, the only legal way if you won't use PC is to buy a Nintendo hardware, which has weak hardware.
+- Currently, you can buy an NVIDIA GeForce RTX / AMD Radeon RX graphics card for your PC to play with official ray-tracing but you cannot buy the official version of Super Mario Mash-up Pack or even download one to your PC and you need to download the unofficial one from the internet, the only legal way to usethe Super Mario Mash-up Pack if you won't use PC is to buy a Nintendo hardware, and so the mash-up pack is easily forgettable (even though you're the fan of both games).
 
-- Also, although RTX-enabled worlds cannot be downloaded thus be created on devices without ray-tracing hardware and support, players who don't have ray-tracing hardware and support (even mobile) can join players with ray-tracing hardware whose playing RTX-enabled worlds. However Super Mario Mash-up Pack not only can't be created on PC because it's not available to Minecraft Marketplace, on Nintendo Switch, it's resource pack also forcefully disables cross-platform multiplayer so it can only be joined by players on Nintendo Switches, and it cannot be reverted even by deleting the one a world has cached with, so you cannot play with players that are on PC or even mobile.
+- Also, officially, although RTX-enabled worlds cannot be downloaded thus be created on devices without ray-tracing hardware and support, players who don't have ray-tracing hardware and support (even mobile) can join players with ray-tracing hardware whose playing RTX-enabled worlds. However official version of Super Mario Mash-up Pack not only can't be created on PC because it's not available in Minecraft Marketplace, on Nintendo Switch, it's resource pack also forcefully disables cross-platform multiplayer so it can only be joined by players on Nintendo Switches, and it cannot be reverted even by deleting the one a world has cached with, so you cannot play with players that are on PC or even mobile.
 
-- players who use Android devices, XBOX players and PC players who play Minecraft Preview but does not have a ray-tracing hardware / support can alternatively use Deferred Rendering (Ray-tracing-like custom shaders if put with ray-tracing enabled resource packs).
+- players who use Android devices, XBOX players and PC players and play Minecraft Preview but does not have a ray-tracing hardware / support can alternatively use Deferred Rendering (Ray-tracing-like custom shaders if put with ray-tracing enabled resource packs), but there's no official alternatives to playing Super Mario Mash-up Pack if even PC players or mobile players wants to.
 
-- TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, breaks ability for future cross-platform multiplayer if the pack was used on a world once, and there's no alternatives or workarounds unless leaglity is not a factor.
+- TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, breaks ability for future cross-platform multiplayer if the pack was used on a world once, and there's no official alternatives or workarounds.
 
 - source: https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.
 
