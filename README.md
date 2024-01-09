@@ -34,6 +34,18 @@ This is about a call-out about Mojang and Nintendo that they are taking piracy i
 
 - On the image, the root reason is in the red rectangle, and i've shortened the other reasons that's not on red rectangle for you to look for.
 
+#### on early 2024, i sent another ticket, explicitly listing why Super Mario Mash-up Pack disabled cross-platform multiplayer and the date of it being on the Minecraft Marketplace (will not be put until the exact time it released), before i accidentally found a workaround
+<img width=80% alt="i sent a ticket for needing a reason of why it forcefully disabled cross platform multiplayer when i used one part of Super Mario Mash-up Pack and (Redacted)" src="https://github.com/panglikesheep18/minecraft-mario-mashup-pack/assets/94123276/0e8ae416-3c13-44c4-9e1b-b61ea8fc67e7">
+
+<img width=80% alt="one of Minecraft Help (or Minecraft Support) staff claimed Super Mario Mash-up Pack is a collaboration between Mojang and Nintendo and thus being exclusive to Nintendo platforms, also, 'no information regarding whether other platforms can also have the mash-up pack in Minecraft Marketplace'" src="https://github.com/panglikesheep18/minecraft-mario-mashup-pack/assets/94123276/c0143a31-54fc-481a-9d93-d9aa5434f24d">
+
+<img width=80% alt="i then called them out for being platform restricted was the reason being the mashup pack was collaborated between Mojang and Nintendo, as if Halo, Sonic and Mega Man X were all platform specific also i called them out for gate-keeping the mash-up pack, EULA-roofing, and thus scamming people" src="https://github.com/panglikesheep18/minecraft-mario-mashup-pack/assets/94123276/21c25f11-0313-418a-ba81-0bca9805f26d">
+
+- since this reason being a collaboration between Mojang and Nintendo is too ridiculous and i cannot contact Nintendo with such methods, i called "Minecraft Help" out by saying if such logic was applied, then should Halo, Sonic and Mega-Man be also platform-restricted because of collaborations with 343 Industries / Bungie, SEGA and CAPCOM and Mojang or Marketplace partners, and platform exclusivity on Halo and exclude platform on Sonic and Mega-Man X, and them gate-keeping the Super Mario Mash-up Pack from being played on cross-playform multiplayer in my opinion, so we had to download the mash-up pack from the internet.
+
+#### i also contacted local Nintendo saying "i have a question, is with nintendo switch online, if i could play with players of other platforms with Minecraft: Deluxe Collection or just in Minecraft, can i be able to play Super Mario Mash-up Pack with players of other platforms or even using skins from Super Mario Mash-up Pack for playing worlds hosted from other-platform?", even though it's parent company is the licensee, it said "...We don't have any information about the game (Minecraft), consider contacting the developer of the game (Mojang)"
+   - which means i need to blame Mojang and platform restriction in Super Mario Mash-up Pack could be a BS.
+
 ## Wait, who made Super Mario Mash-up Pack?
 - In my opinion, Mojang Studios, 4J Studios and Nintendo made the mash-up pack, with Nintendo licensing it.
 
