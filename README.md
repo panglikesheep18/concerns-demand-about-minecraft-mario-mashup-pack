@@ -51,6 +51,8 @@ This is about a call-out about Mojang and Nintendo that they are taking piracy i
   - if it was platform-restricted based of initial releases of original games, shouldn't Sonic be even made? should Mega-Man X in Minecraft be exclusive to PS, Nintendo Switch, PC and mobile (or even Nintendo Switch only if based of earliest release)?
   - Also, if we travel to present timeline, Super Mario Run and Mario Kart Tour are available exclusively to mobile, not even Nintendo consoles. So should Super Mario Mash-up Pack be also available to mobile?
 
+<img width="1063" alt="One Minecraft staff claimed the mash-up pack being platform-specific to Nintendo Switch because of not only Mojang's, but also Nintendo's decision" src="https://github.com/panglikesheep18/minecraft-mario-mashup-pack/assets/94123276/fa93bb39-6c75-4dde-b94f-456817111b9f">
+
 #### This also proves inconsistency in Minecraft Help between time, with some staffs claiming it was "Licensing issues", some "no info" and even some "Blame Nintendo", further proving it is a gate-keep for me.
 
 #### i also contacted local Nintendo saying "i have a question, is with nintendo switch online, if i could play with players of other platforms with Minecraft: Deluxe Collection or just in Minecraft, can i be able to play Super Mario Mash-up Pack with players of other platforms or even using skins from Super Mario Mash-up Pack for playing worlds hosted from other-platform?", even though it's parent company is the licensee, it said "...We don't have any information about the game (Minecraft), consider contacting the developer of the game (Mojang)"
