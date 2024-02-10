@@ -81,7 +81,7 @@ Link to the Pluralistic: "If buying isn't owning, piracy isn't stealing" is <a h
 
 - TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, breaks ability for future cross-platform multiplayer on a world if the pack was used on it once, and there's no official alternatives or workarounds.
 
-- source: https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.
+- source of questions about Super Mario Mash-up Pack: https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.
 
 ## Why is piracy justified despite it's illegal? How can Mojang fix that?
 - As previous, piracy is illegal because it is a form of unaurthorized distribution. Not only that, you will go to shady websites that has potential malwares.
