@@ -14,10 +14,11 @@ This is about a call-out about Mojang and Nintendo that they are taking piracy i
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
 ### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons (orders from common to ridiculous):
-  - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace (on PC and mobile) in the first place and pirating it and getting it patched right now is the only solution for cross-platform usage. I cannot search one on Minecraft Marketplace catalog even on Nintendo Switch.
+  - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace (on PC and mobile) in the first place and downloading it and getting it patched right now is the only solution for cross-platform usage.
   - I accidentally discovered a workaround.
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace (this is the most obivious without any cracking, just buy a Nintendo Switch, the game and a licensed content from Minecraft Marketplace.)
-  - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
+  - I cannot search one on Minecraft Marketplace catalog even in search on Nintendo Switch.
+  - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace (on PC and mobile) so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
   - They could've kept the claim consistent if it was not "Licensing issue" BS.
     - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
