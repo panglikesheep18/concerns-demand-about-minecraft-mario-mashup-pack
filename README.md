@@ -15,11 +15,11 @@ This is about a call-out about Mojang and Nintendo that they are taking piracy i
   
 ### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons (orders from common to ridiculous):
   - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace (on PC and mobile) in the first place and downloading it and getting it patched right now is the only solution for cross-platform usage.
-  - I accidentally discovered a workaround.
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace (this is the most obivious without any cracking, just buy a Nintendo Switch, the game and a licensed content from Minecraft Marketplace.)
   - I cannot search one on Minecraft Marketplace catalog even in search on Nintendo Switch.
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace (on PC and mobile) so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
+  - I accidentally discovered a workaround.
   - They could've kept the claim consistent if it was not "Licensing issue" BS.
     - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ.
     - the physical game box on mine isn't changed yet, although the digital, default version of the game no longer said that it included Super Mario Mash-up Pack, Deleuxe version and physical box of the game said so without adding any disclaimer, having to have players (including me) then find out they were forcefully set multiplayer from cross-platform, to platform-specific at best, or forcefully disable all multiplayer at worst, and only to get worsened in the FAQ, if FAQs were the EULA, this would be an example of EULA roofing (EULA roofying).
