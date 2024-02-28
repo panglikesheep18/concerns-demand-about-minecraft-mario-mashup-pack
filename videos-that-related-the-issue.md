@@ -1,4 +1,5 @@
-Related videos for sake 💀💀 (why i forgot these), but please do not attempt what he said as piracy is illegal and can get you arrested for such. these related videos below are why Louis Rossmann chose or think of piracy as a result in my bias, and my bias of when same logic applied.
+Related videos for sake 💀💀 (why i forgot these), but please do not attempt what he said as piracy is illegal and can get you arrested for such.
+These related videos below are why Louis Rossmann chose or think of piracy as a result in my bias, and my bias of when my logic were applied.
 
 # **Please note these videos below have slurs that might be offensive to people. also please do not attempt piracy if you could buy such to own.**
 
