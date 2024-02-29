@@ -1,6 +1,6 @@
 # minecraft-mario-mashup-pack
 If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no content is included even in multiple resporities.
-This is about a concern, request, beg and call-out about Mojang and Nintendo that they are taking piracy in joking way, and i guess they took it jokingly because they managed to get my whole GitHub unsearchable (blacklisted or blocked whatever) on Google.
+This is about a concern, request, beg and call-out about Mojang and Nintendo that they are taking piracy in joking way, and i guess Google took it jokingly because they managed to get my whole GitHub unsearchable (blacklisted or blocked whatever) there.
 
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
@@ -9,12 +9,11 @@ This is about a concern, request, beg and call-out about Mojang and Nintendo tha
 - i don't know if the extra $10 in Minecraft for Nintendo Switch is the cost of Super Mario Mash-up Pack, or it was the tax and the mash-up pack was actually free by using the word "include", either way i paid for it or i claimed that so i own it, but then i would either risk rich <a href=https://en.wikipedia.org/wiki/Karen_(slang)>karen</a> threats for putting in or community backlash for not putting in. and since there's multiples of that in the internet, i am not going to risk rich <a href=https://en.wikipedia.org/wiki/Karen_(slang)>karen</a> threats for putting it in anyways.
 
 ## Why is this file existed? Explain like I'm 5.
-- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I found an exploit, I made bug reports for that, I upvoted <a href=https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup> one "suggession" in Minecraft Feedback</a>, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and planned platform exclusivity and told me to blame Nintendo, went toxic and mute me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. I had to call them out.
+- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted <a href=https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup> one "suggession" in Minecraft Feedback</a>, I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and planned platform exclusivity and told me to blame Nintendo, muted me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. So I had to call them out.
 - For PC it's Microsoft Windows (and Apple MacOS if there were one), for mobile it's iOS, iPadOS, Android and Fire.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
 ### the beg was also about making Super Mario Mash-up Pack available to Minecraft Marketplace for following reasons (orders from common to ridiculous):
-  - Piracy issue, because even though piracy itself is illegal, the mash-up pack is not available in Minecraft Marketplace (on PC and mobile) in the first place and downloading it and getting it patched right now is the only solution for cross-platform usage.
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace (this is the most obivious without any cracking, just buy a Nintendo Switch, the game and a licensed content from Minecraft Marketplace.)
   - I cannot search one on Minecraft Marketplace catalog even in search on Nintendo Switch.
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace (on PC and mobile) so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
@@ -45,12 +44,6 @@ This is about a concern, request, beg and call-out about Mojang and Nintendo tha
 
 - source of questions about Super Mario Mash-up Pack: https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.
 
-## Why is piracy justified despite it's illegal? How can Mojang fix that?
-- As previous, piracy is illegal because it is a form of unaurthorized distribution. Not only that, you will go to shady websites that has potential malwares.
-- however, right now people risk it because pirated copy give out more flexibility than paid, official versions, it now innovates more than official versions. By just pirating it and then patching it, or just download the patched version, pirates can use it more freely than those who bought for official versions.
-
-- To make piracy unjustifiable, we should add features that pirated copies had, to official versions and removing restrictions against freedom in official versions that pirated copies did not. **Brute-forcing a way to make anti-piracy more powerful, threatening a take-down while not lifting off restrictions on official versions are not a solution, and is violence, a waste of money and full-on retarded behavior.**
-
 ## Did Nintendo use Super Mario Mash-up Pack as a promotion for Minecraft (for Nintendo Switch) in 2023?
 - Yes, I found some Minecraft Promotion in Nintendo that used Super Mario Mash-up Pack, in 2023, like
 - https://www.youtube.com/watch?v=DmYAKpGo-B0
@@ -61,7 +54,7 @@ This is about a concern, request, beg and call-out about Mojang and Nintendo tha
 - A vague explanation of my workaround can be found <a href=https://feedback.minecraft.net/hc/en-us/community/posts/360021759332/comments/23409371173773>here</a> , please note that it will be defeated and become ineffective in the future update, if so, i will update it to prove it defeated. Even though i intended the discovery to be so you could play with friends in your or friend's world (not Realms or featured server) in the skin. As stated, this workaround only applies to skins. I wished the Super Mario Mash-up Pack was made to Minecraft (Marketplace) for PC and mobile for people that like to use PC or mobile so they can enjoy these without having to do the workaround.
 
 ## What is the current solution to the issue if Mojang and Nintendo did not put the mash-up pack to multiple platforms?
-- People said <a href="https://www.planetminecraft.com/resources/?keywords=mario">using custom skins from the internet with mobile and PC as a solution</a>, but little did they know, if they were playing the game on PC, with an extra app to import the skin-pack, and some seriousness, they can also download the mash-up pack from the same internet and have enjoyed these on PC that was only used for Nintendo Switch players according to the BS. for example, SRG's Skinpack, Minecraft Super Mario Edition 1.2.0 and the Minecraft Java port of the map from Super Mario Mash-up Pack.
+- People said <a href="https://www.planetminecraft.com/resources/?keywords=mario">using custom skins from the internet with mobile and PC as a solution</a>, but little did they know, if they were playing the game on PC, with an extra app to import the skin-pack, and some seriousness, they can also download the mash-up pack from the same internet and have enjoyed these on PC that was only used for Nintendo Switch players according to the BS.
 
 - our reasonings are two of proofs why no one gave a damn even though the mash-up pack is not available to be purchased in PC or mobile in the first place. these are Nintendo and Mojang's service (skill) issues. Should Nintendo and Mojang wake-up and put the mash-up pack to Minecraft (Marketplace) on PC and mobile, with no platform restrictions, so people can then get the mash-up pack on platforms people want in easier way?
 
