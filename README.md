@@ -1,5 +1,6 @@
 # minecraft-mario-mashup-pack
-If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, no content is included even in multiple resporities.
+If you are there, this is a god-tier honeypot that trips Nintendo and Mojang, none of usable part of the mash-up pack is included even in multiple resporities i've created.
+
 This is about a concern, request, beg and call-out about Mojang and Nintendo that they are taking piracy in joking way, and i guess Google took it jokingly because they managed to get my whole GitHub unsearchable (blacklisted or blocked whatever) there.
 
 # QNA
