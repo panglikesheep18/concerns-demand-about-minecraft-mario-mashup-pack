@@ -43,7 +43,7 @@ This is about a concern, request, beg and call-out about Mojang and Nintendo tha
 
 - TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, breaks ability for future cross-platform multiplayer on a world if the pack was used on it once, and there's no official alternatives or workarounds.
 
-- source of questions about Super Mario Mash-up Pack: https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.
+- source of questions about Super Mario Mash-up Pack: ~~https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.~~ Replaced by a question about signing-in Microsoft Account to Nintendo Switch.
 
 ## Did Nintendo use Super Mario Mash-up Pack as a promotion for Minecraft (for Nintendo Switch) in 2023?
 - Yes, I found some Minecraft Promotion in Nintendo that used Super Mario Mash-up Pack, in 2023, like
