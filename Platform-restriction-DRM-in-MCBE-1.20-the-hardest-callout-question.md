@@ -1,4 +1,4 @@
-# Platform Restriction DRM (hardest call-out question, Companies got angry at me talking about such)
+# My information about Platform Restriction (hardest call-out question, Companies got angry at me talking about such)
 
 ## What restrictions did Mojang put so it tells the game that the content is platform / multiplayer restricted?
 - `"platform_locked": true` (source: https://www.reddit.com/r/NintendoSwitch/comments/70vu0u/how_the_super_mario_pack_will_be_restricted_in/) and `"pack_scope": "world"` (source: https://bugs.mojang.com/browse/MCPE-160631)
