@@ -1,8 +1,10 @@
 # concerns-demand-about-minecraft-mario-mashup-pack
 
-## none of usable part of the mash-up pack is included even in multiple resporities i've created.
+## Disclaimer: none of usable part of the mash-up pack is included even in multiple resporities i've created. Please look at QNA "Will you put contents from Super Mario Mash-up Pack there?" for details.
 
 This is about a concern, request and beg about Mojang and Nintendo that i want them to make Super Mario Mash-up Pack to multiple platforms (especially PC and mobile).
+
+Despite me (i mean me there) being cancelled on Google, I would keep an update without making anyone angry.
 
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
@@ -11,9 +13,9 @@ This is about a concern, request and beg about Mojang and Nintendo that i want t
 - i don't know if the extra $10 in Minecraft for Nintendo Switch is the cost of Super Mario Mash-up Pack, or it was the tax and the mash-up pack was actually free by using the word "include", either way i paid for it or i claimed that so i own it, but then i would either risk rich [karen](https://en.wikipedia.org/wiki/Karen_(slang)) threats for putting in or community backlash for not putting in. and since there's multiples of that in the internet, i am not going to risk rich [karen](https://en.wikipedia.org/wiki/Karen_(slang)) threats for putting it in anyways.
 
 ## Why is this file existed? Explain like I'm 5.
-- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted [one "suggession" in Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup), I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and planned platform exclusivity and told me to blame Nintendo, muted me begging and finding out the truth, i cannot contact Nintendo cuz it's unrelated to all of methods. So I had to call them out.
+- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted [one "suggession" in Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup), I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and / or planned platform exclusivity, went too far and got myself muted / banned. I cannot contact Nintendo cuz it's unrelated to all of methods. So I had to call them out.
 - i had discovered a workaround to the issue i am having, and created a bug report with the workaround as an workaround, in a fit of rage.
-- For PC it's Microsoft Windows (and Apple MacOS if there were one), for mobile it's iOS, iPadOS, Android and Fire.
+- For PC it's Microsoft Windows, for mobile it's iOS, iPadOS, Android and Fire.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
   
 ### the beg was also about making Super Mario Mash-up Pack available to multiple platforms for following reasons (orders from common to ridiculous):
@@ -22,13 +24,13 @@ This is about a concern, request and beg about Mojang and Nintendo that i want t
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace (on PC and mobile) so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
   - I accidentally discovered a workaround.
-  - They could've kept the claim consistent if it was not "Licensing issue" BS (gate-keeping).
-  - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer ~~and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ~~ (that answer was removed in March 2024 without the game updating).
-  - The physical game box on mine isn't changed yet, although the default version of the game on digital store no longer said that it included Super Mario Mash-up Pack, Deleuxe version and physical box of the game said so without adding any disclaimer (as if the Super Mario Mash-up Pack could be treated the same as other Marketplace contents), having to have players (including me) then find out they were forcefully set multiplayer from cross-platform, to platform-specific at best, or forcefully disable all multiplayer at worst.
-  - Recently, the answer about that was removed, which means users won't be properly informed that the mash-up pack was platform-restrictive in official (support) sites before purchase, which then required players of unexperienced to contact Minecraft Support, or those who didn't contact and fully rely on official sites could be misled that the mash-up pack could be used on cross-platform multiplayer.
+  - They could've kept the claim consistent if it was not "Licensing issue" (gate-keeping).
+  - I did not find out it was platform-restricted until i tried to apply the skin in the multiplayer ~~and I found one against using Super Mario Mash-up Pack in other platforms on a FAQ~~ (that answer was removed in March 2024 in Minecraft Help without the game updating).
+  - The physical game box on mine isn't changed yet, although the default version of the game on digital store no longer said that it included Super Mario Mash-up Pack, Deleuxe version and physical box of the game said so without adding any disclaimer (as if the Super Mario Mash-up Pack could be treated the same as other Marketplace contents), having to have players (including me) then purchase it and find that they forcefully set multiplayer from cross-platform, to platform-specific at best, or forcefully disable all multiplayer at worst.
+  - Recently, the answer about that was removed in Minecraft Help, which means users won't be properly informed that the mash-up pack was platform-restrictive in official (support) sites before purchase, which then required players of unexperienced to contact Minecraft Support, or those who didn't contact and fully rely on official sites could be misled that the mash-up pack could be used on cross-platform multiplayer.
     - overall their moves made the claim very unpromising.
    
-### Proves of the issue that make me support making Super Mario Mash-up Pack to multiple platforms:
+### Proves of the issue that make me support in flavor of making Super Mario Mash-up Pack to multiple platforms:
   - The physical game card box does not have a disclaimer
   - I did not find an answer for "could i play the mash-up pack on cross-platform multiplayer" (only one which is deceptive, on an article "Different Minecraft Editions" i've shown very below)
   - Platform restriction feature is broken with me finding a workaround to it and [people's discovery of it taking too far in Create World Screen](https://bugs.mojang.com/browse/MCPE-180557)
