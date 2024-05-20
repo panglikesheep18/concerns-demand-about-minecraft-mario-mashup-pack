@@ -6,7 +6,7 @@
 - wheres `"pack_scope"` is used to limit where the resource pack can be used in, if it's set to `"global"`, the pack will be restricted to only be used as global resource and `"world"` will restrict it to only be used in the world. it's stupid that it's "Working as Intended" when it is set-up as an anti-feature for customization on-device only! (source: https://bugs.mojang.com/browse/MCPE-160631) update: some UI on the menu are not changed.
 - Mojang / Nintendo could've updated the license, removed restrictions, updated it's thumbnail to have the license shown up, and have it put to Minecraft Marketplace, **it's ## easy, it only takes 3 weeks maximum**
 
-## What other contents were affected by platform restriction DRM and what is it?
+## What other contents were affected by platform restriction vaiable and what is it?
  - carries over XBOX versions of Minecraft, with multiplayer disabled in Bedrock counterpart due to the licensing issue (with Marvel and / or Disney):
    - Marvel Avengers Skin Pack
    - Marvel Spider-Man Skin Pack
