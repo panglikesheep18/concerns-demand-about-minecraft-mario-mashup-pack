@@ -14,7 +14,7 @@ Despite me (i mean me there) being cancelled on Google, I would keep an update w
 - i want to get the mash-up pack in official way so bad
 
 ## Why is this file existed? Explain like I'm 5.
-- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted [one "suggession" in Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup), I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and / or planned platform exclusivity, went too far and got myself muted / banned. I cannot contact Nintendo cuz it's unrelated to all of methods. So I had to call them out.
+- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted [one "suggession" in Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup), I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and / or planned platform exclusivity, went too far and got myself muted / banned. I cannot contact Nintendo cuz it's unrelated to all of methods. So I called them out in fit of rage.
 - i had discovered a workaround to the issue i am having, and created a bug report with the workaround as an workaround, in a fit of rage.
 - For PC it's Microsoft Windows, for mobile it's iOS, iPadOS, Android and Fire.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
