@@ -62,7 +62,7 @@ Despite me (i mean me there) being cancelled on Google, I would keep an update w
 - Yes, I found some Minecraft Promotion in Nintendo that used Super Mario Mash-up Pack, in 2023 to 2024, like
 - https://www.youtube.com/watch?v=DmYAKpGo-B0
 - https://twitter.com/NintendoAmerica/status/1620527350344450050
-- https://www.youtube.com/watch?v=3TsDr9Qow94
+- https://www.youtube.com/watch?v=3TsDr9Qow94 (most inconsistent with disclaimer at 0:51 being against a footage in 0:33 to 0:35 [look at the top right of the video carefully])
 
 ## What is the workaround to the issue if users wanted to play cross-platform with skins from Super Mario Mash-up Pack anyways?
 - A vague explanation of my workaround can be found [here](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332/comments/23409371173773) , please note that it will be defeated and become ineffective in the future update, if so, i will update it to prove it defeated. Even though i intended the discovery to be so you could play with friends in your or friend's world (not Realms or featured server) in the skin. As stated, this workaround only applies to skins. I wished the Super Mario Mash-up Pack was made to Minecraft (Marketplace) for PC and mobile for people that like to use PC or mobile so they can enjoy these without having to do the workaround.
