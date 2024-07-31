@@ -2,9 +2,9 @@
 
 ## Disclaimer: none of usable part of the mash-up pack is included even in multiple resporities i've created. Please look at QNA "Will you put contents from Super Mario Mash-up Pack there?" for details.
 
-This is about a concern, request and beg about Mojang and Nintendo that i want them to make Super Mario Mash-up Pack to multiple platforms (especially PC and mobile).
+This is about a request and beg about Mojang and Nintendo that i want them to make Super Mario Mash-up Pack to multiple platforms (especially PC and mobile).
 
-Despite me (i mean me there) being cancelled on Google, I would keep an update without making anyone angry.
+Despite me (i mean me there) being de-indexed on Google (which means the honepot is obviously working), I would keep an update without making anyone angry.
 
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
@@ -14,7 +14,7 @@ Despite me (i mean me there) being cancelled on Google, I would keep an update w
 - i want to get the mash-up pack in official way so bad
 
 ## Why is this file existed? Explain like I'm 5.
-- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted [one "suggession" in Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup), I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and / or planned platform exclusivity, went too far and got myself muted / banned. I cannot contact Nintendo cuz it's unrelated to all of methods. So I called them out in fit of rage.
+- I found skins from Super Mario Mashup Pack were not cross-platform the hard way, I made bug reports for that, I upvoted [one "suggession" in Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup), I begged Mojang for Super Mario Mash-up Pack in PC and mobile, Mojang said it was licensing issue and / or planned platform exclusivity, and claimed would be fixed "soon", i went too far and got myself muted / banned. I cannot contact Nintendo cuz it's unrelated to all of methods. So I called them out in fit of rage.
 - i had discovered a workaround to the issue i am having, and created a bug report with the workaround as an workaround, in a fit of rage.
 - For PC it's Microsoft Windows, for mobile it's iOS, iPadOS, Android and Fire.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
@@ -22,6 +22,7 @@ Despite me (i mean me there) being cancelled on Google, I would keep an update w
 ### the beg was also about making Super Mario Mash-up Pack available to multiple platforms for following reasons (orders from common to ridiculous):
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace (this is the most obivious without any cracking, just buy a Nintendo Switch, the game and a licensed content from Minecraft Marketplace.)
   - I cannot search one on Minecraft Marketplace catalog even in search on Nintendo Switch.
+  - [Nintendo could've added a way to redeem for a mash-up pack on their site for use on PC and mobile](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332/comments/25465641914125)
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace (on PC and mobile) so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
   - I accidentally discovered a workaround.
@@ -41,7 +42,9 @@ Despite me (i mean me there) being cancelled on Google, I would keep an update w
 
 ### i had also contacted local Nintendo by saying "i have a question, is with nintendo switch online. if i could play with players of other platforms with Minecraft: Deluxe Collection or just in Minecraft, can i be able to play Super Mario Mash-up Pack with players of other platforms or even using skins from Super Mario Mash-up Pack for playing worlds hosted from other-platform?", even though it's parent company is the licensee, they said "...We don't have any information about the game (Minecraft), consider contacting the developer of the game (Mojang)"
 
-### UPDATE: in March and May, i tried contecting Minecraft Support again, with workarounds, one is that i got conviced after the FAQs were removed, and another is if the mash-up pack would be released in multiple platforms with the licensee in few weeks, with both "unable to confirm" (or "confirming that's not" in staff's speak), despite those in Minecraft Help no longer existing in early 2024. although the case's closed without banning in former attempt (because i did not say if i was screwed in that attempt), the lattter attempt resulted in me being ghosted again and a heavier artificial ban after i asked if i was screwed if i had the game for other platforms and wanted the mash-up pack but without the Nintendo Switch. which i did not ever have rage speech, so it's an insanely immature take, because of that, i cannot also report any issue about toxic reviewer in Minecraft Feedback.
+### UPDATE: in March and May, i tried contecting Minecraft Support again, with workarounds, one is that i got conviced after the FAQs were removed, and another is if the mash-up pack would be released in multiple platforms with the licensee in few weeks, with both "unable to confirm" (or "confirming that's not" in staff's speak), despite those in Minecraft Help no longer existing in early 2024. although the case's closed without banning in former attempt (because i did not say if i was screwed in that attempt), the lattter attempt resulted in me being ghosted again and an artificial ban after i asked if i was screwed if i had the game for other platforms and wanted the mash-up pack but without the Nintendo Switch. which i did not ever have rage speech, so it's an insanely immature take, because of that, i cannot also report any issue about toxic reviewer in Minecraft Feedback.
+
+### The longer they gate-keep the mash-up pack from officially being usable on PC and mobile, the more mad i am.
 
 ## Wait, who made Super Mario Mash-up Pack?
 - In my opinion, Mojang Studios, 4J Studios and Nintendo made the mash-up pack, with Nintendo licensing it.
@@ -51,11 +54,11 @@ Despite me (i mean me there) being cancelled on Google, I would keep an update w
 
 - Currently, you can buy an NVIDIA GeForce RTX / AMD Radeon RX graphics card for your PC to play with official ray-tracing. But you cannot buy the official version of Super Mario Mash-up Pack or even download one to your PC, thus you need to download the unofficial one from the internet, the only legal way to use the Super Mario Mash-up Pack if you won't use PC is to buy a Nintendo hardware, and so the mash-up pack is easily forgettable (even though you were the fan of both games).
 
-- Also, officially, although RTX-enabled worlds cannot be downloaded or be created on devices without ray-tracing hardware and support, players who don't have ray-tracing hardware and support (even mobile) can join players with ray-tracing hardware whose playing RTX-enabled worlds. However official version of Super Mario Mash-up Pack can't be created on PC or mobile because it's not available to Minecraft Marketplace for there in the first place, and on Nintendo Switch, it's resource pack also forcefully disables cross-platform multiplayer so it can only be joined by players on Nintendo Switches, and it cannot be reverted even by deleting the one a world has cached with, so you cannot play with players that are on PC or even mobile.
+- Also, officially, although RTX-enabled worlds cannot be downloaded or be created on devices without ray-tracing hardware and support, players who don't have ray-tracing hardware and support (even mobile) can join players with ray-tracing hardware whose playing RTX-enabled worlds. However official version of Super Mario Mash-up Pack can't be created on PC or mobile because it's not available to Minecraft Marketplace for there in the first place, and on Nintendo Switch, it's resource pack also forcefully disables cross-platform multiplayer so it can only be joined by players on Nintendo Switches ~~, and it cannot be reverted even by deleting the one a world has cached with, so you cannot play with players that are on PC or even mobile~~ (Fixed since Release 1.21 for latest).
 
 - players who play Minecraft Preview on mobile (iOS and Android), XBOX or PC, regardless having a ray-tracing hardware / support or not, can alternatively use Deferred Rendering (Ray-tracing-like custom shaders if put with ray-tracing enabled resource packs). But there's no official alternatives to playing Super Mario Mash-up Pack if even PC players or mobile players wants to, and community-made workarounds require intense and technical procedure and they will risk getting broken and/or defeated by an anti-feature from a DRM in future revisions or versions.
 
-- TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, breaks ability for future cross-platform multiplayer on a world if the pack was used on it once, and there's no official alternatives or workarounds.
+- TL;DR: Ray-tracing can only be used on PC with ray-tracing hardware but those who do not have one can join in other's ray-tracing-enabled world or in Minecraft Preview, use deferred rendering, while Super Mario Mash-up Pack can only be used on Nintendo Switch, forcefully disables cross-platform multiplayer, and has no official alternatives or workarounds.
 
 - source of questions about Super Mario Mash-up Pack: ~~https://help.minecraft.net/hc/en-us/articles/4408894129933#h_01GK594JS1RQMYGF39SRT9J1ST , goes to "WHAT ADDITIONAL CONTENT IS INCLUDED?" but sourced from "CAN MY FRIENDS ON XBOX PLAY THE SUPER MARIO MASH-UP?" BS question.~~ Replaced by a question about signing-in Microsoft Account to Nintendo Switch.
 - Alternative source: https://help.minecraft.net/hc/en-us/articles/360034753992
