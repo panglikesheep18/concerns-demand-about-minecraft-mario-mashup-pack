@@ -32,7 +32,7 @@ Despite me (i mean me there) being de-indexed on Google (which means the honepot
   - ~~Recently, the answer about that was removed in Minecraft Help, which means users won't be properly informed that the mash-up pack was platform-restrictive in official (support) sites before purchase, which then required players of unexperienced to contact Minecraft Support, or those who didn't contact and fully rely on official sites could be misled that the mash-up pack could be used on cross-platform multiplayer.~~ [(The deception has been fixed, for those who researches before purchase)](https://bugs.mojang.com/browse/WEB-6914)
     - overall their moves made the claim very unpromising.
    
-### Proves of the issue that make me support in flavor of making Super Mario Mash-up Pack to multiple platforms:
+### Proofs of the issue that make me support in flavor of making Super Mario Mash-up Pack to multiple platforms:
   - The physical game card box does not have a disclaimer
   - ~~I did not find an answer for "could i play the mash-up pack on cross-platform multiplayer" in Minecraft Help (only one which is deceptive, on an article "Different Minecraft Editions" i've shown very below)~~
   - Platform restriction feature is broken with me finding a workaround to it and [people's discovery of it taking too far in Create World Screen](https://bugs.mojang.com/browse/MCPE-180557)
