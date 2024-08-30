@@ -1,6 +1,6 @@
 ## Benefits of making the Super Mario Mash-up Pack to other platforms and be usable on cross-platform multiplayer
 
-1.***platform restriction pop-up is no more***
+1. ***platform restriction pop-up is no more***
 - you'll no longer be annoyed / blocked by the pop-up
 
 2. more skins to choose for multiplayer
