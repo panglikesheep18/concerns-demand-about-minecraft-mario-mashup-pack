@@ -14,18 +14,18 @@
 
 <!--#. `pack_scope` can be deprecated (not `platform_lock`) - optimizes storage and bad actors can no longer abuse it (Do LittleBigPlanet Mash-up also have "pack_scope"?)-->
 5. more players can use or try it on devices they like
-- as it was no longer platform-specific, and thus no longer it was monoplastic, so players who don't have Nintendo Switch can also try it
+- as it was no longer platform-specific, and thus no longer it was monoplastic, players who don't have Nintendo Switch can also play it
 
 6. (cross-platform) multiplayer is no longer forcefully disabled with the mash-up pack on
-- you could play the mash-up pack with those skins anywhere with friends of any platform!
+- you could play the mash-up pack with those resource pack or skins from the mash-up pack, on platforms you like the most, with friends of any platform!
 
-7. it's a W (win) to players, a W (win) to Mojang, a W (win) to MS and even a W (win) to Nintendo <!--if it ever was-->
+7. it's a W (win) to players, a W (win) to Mojang, a W (win) to MS and even a W (win) to Nintendo <!--if Nintendo ever was this fair 💀-->
 - for players, you can get the first five resons i listed above, for Mojang / Nintendo, it can also be profitable!
 
-8. effectively fixed bugs without having to pop-ups platform-specific to the UI
-- fixes one bug https://bugs.mojang.com/browse/MCPE-180557 by having the mash-up pack allowed on cross-platform multiplayer
+8. effectively fixed bugs without having to change how pop-ups work to the UI
+- fix one bug https://bugs.mojang.com/browse/MCPE-180557 by having the mash-up pack allowed on cross-platform multiplayer
 
-9. it would be more consistent to the physical game box and no longer deceptive
+9. it would be more consistent to the physical game box and would no longer be deceptive
 - in fact, too consistent
 
 ... more reasons to be put in coming updates until archived
