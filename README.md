@@ -29,7 +29,7 @@ For quick reason why it should be put (without also reading why the restriction 
   - [Nintendo could've added a way to redeem for a mash-up pack on their site for use on PC and mobile](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332/comments/25465641914125)
   - Mojang and Nintendo could've added the mash-up pack separately in Minecraft Marketplace (on PC and mobile) so anyone who wants to use the mash-up pack outside Nintendo Switch should pay for one, and profits of the mash-up pack can go to Nintendo.
   - The physical game box of Minecraft for Nintendo Switch i got, did not claim that the Super Mario Mash-up Pack is platform-specific mash-up pack.
-  - I accidentally discovered a workaround.
+  - I accidentally discovered a workaround (currently defeated).
   - They could've kept the claim consistent if it was not "Licensing issue" (gate-keeping).
   - I did not find out it was platform-restricted until i tried to apply the skin in cross-platform multiplayer and to add insult to injury, I then found one FAQ that said that the mash-up pack can't be used on multiplayer.
   - The physical game box on mine isn't changed yet, although the default version of the game on digital store no longer said that it included Super Mario Mash-up Pack, Deleuxe version and physical box of the game said so without adding any disclaimer (as if the Super Mario Mash-up Pack could be treated the same as other Marketplace contents that could be used on cross-platform multiplayer), having to have players (including me) then purchase it to find that they forcefully set multiplayer from cross-platform, to platform-specific at best, or [forcefully disabled at worst](https://bugs.mojang.com/browse/MCPE-180557).
