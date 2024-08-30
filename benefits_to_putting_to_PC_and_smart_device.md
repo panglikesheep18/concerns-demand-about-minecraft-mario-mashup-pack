@@ -14,7 +14,7 @@
 
 <!--#. `pack_scope` can be deprecated (not `platform_lock`) - optimizes storage and bad actors can no longer abuse it (Do LittleBigPlanet Mash-up also have "pack_scope"?)-->
 5. more players can use or try it on devices they like
-- as it was no longer platform-specific, and thus no longer it was monoplastic, players who don't have Nintendo Switch can also play it
+- as it was no longer platform-specific, and thus no longer it was monopolastic, players who don't have Nintendo Switch can also play it
 
 6. (cross-platform) multiplayer is no longer forcefully disabled with the mash-up pack on
 - you could play the mash-up pack with those resource pack or skins from the mash-up pack, on platforms you like the most, with friends of any platform!
