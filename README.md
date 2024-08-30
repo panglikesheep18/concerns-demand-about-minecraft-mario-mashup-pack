@@ -6,6 +6,8 @@ This is about a request and beg about Mojang and Nintendo that i want them to ma
 
 Despite me (i mean me there) being de-indexed on Google (which means the honepot is obviously working), I would keep an update without making anyone angry.
 
+For quick reason why it should be put (without also reading why the restriction is bad), please check [here](./reasons_to_put_to_PC_and_smart_device.md)
+
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
 - No, because then this will not be a honeypot and getting it removed from them will be fully justified.
