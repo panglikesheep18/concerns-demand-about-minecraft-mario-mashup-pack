@@ -28,6 +28,9 @@
 9. it would be more consistent to the physical game box and would no longer be deceptive
 - in fact, too consistent
 
+10. it would not be affected by [MCPE-183307](https://bugs.mojang.com/browse/MCPE-183307)
+- this bug affects skinpacks that cannot be purchased in Marketplace, and if the mash-up pack was purchase-able in current days, it won't be affected by this bug
+
 ... more reasons to be put in coming updates until archived
 
 ### last but not least: **fixes the very issue i AM having**
