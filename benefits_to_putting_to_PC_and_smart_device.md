@@ -29,7 +29,7 @@
 - in fact, too consistent
 
 10. it would not be affected by [MCPE-183307](https://bugs.mojang.com/browse/MCPE-183307)
-- this bug affects skinpacks that cannot be purchased in Marketplace, and if the mash-up pack was purchase-able in current days, it won't be affected by this bug
+- this bug affects skinpacks that cannot be purchased in Marketplace, as this bug only affects skin-packs and mash-up packs that are not-purchase-able and cannot be imported. And if the mash-up pack was purchase-able in current days, it won't be affected by this bug.
 
 11. no more annoying issues like [MCPE-185721](https://bugs.mojang.com/browse/MCPE-185721)
 - the issue i was pointing was about the pack's not updating, which required a game update. If the mash-up pack was made available for other platforms, it could be optional, and if so, updates to it could be applied without having to update the game itself.
