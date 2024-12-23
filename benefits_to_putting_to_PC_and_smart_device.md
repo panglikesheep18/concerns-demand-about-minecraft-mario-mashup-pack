@@ -28,14 +28,6 @@
 9. it would be more consistent to the physical game box and would no longer be deceptive
 - in fact, too consistent
 
-10. it would not be affected by [MCPE-183307](https://bugs.mojang.com/browse/MCPE-183307)
-- this bug affects skinpacks that cannot be purchased in Marketplace, as this bug only affects skin-packs and mash-up packs that are not-purchase-able and cannot be imported. And if the mash-up pack was purchase-able in current days, it won't be affected by this bug.
-
-11. no more annoying issues like [MCPE-185721](https://bugs.mojang.com/browse/MCPE-185721)
-- the issue i was pointing was about the pack's not updating, which required a game update. If the mash-up pack was made available for other platforms, it could be optional, and if so, updates to it could be applied without having to update the game itself.
-
-... more reasons to be put in coming updates until archived
-
 ### last but not least: **fixes the very issue i AM having**
 - i will be very happy to see this being put. i will no longer be mad if it was ever put to multiple platforms with cross-platform enabled.
 - **as i begged Minecraft Support, reported such to Mojang Bug Tracker, upvoted and posted suggestions for it on Minecraft Feedback, and even contacted Nintendo Customer Support (the one which has it's header licensing it) for this very issue. (not in order)** i hope the Super Mario Mash-up Pack was made available to other platforms of Minecraft very soon.
