@@ -72,11 +72,9 @@ For quick reason why it should be put (without also reading why the restriction 
 - https://www.youtube.com/watch?v=3TsDr9Qow94 ([most inconsistent with disclaimer at 0:51 being against a footage in 0:33 to 0:35](https://bugs.mojang.com/browse/WEB-7134) [look at the top right of the video carefully])
 
 ## What is the workaround to the issue if users wanted to play cross-platform with skins from Super Mario Mash-up Pack anyways?
-- ~~A vague explanation of my workaround can be found [here](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332/comments/23409371173773) .~~ It's now almost impossible to perform (and is defeated) since 1.21.20 as the skin preloads from the device cache and has broken skin / character syncing across one account.
+- ~~A vague explanation of my workaround can be found [here](https://feedback.minecraft.net/hc/en-us/community/posts/360021759332/comments/23409371173773) .~~ It's now impossible to perform (and is defeated) since 1.21.20 as the skin preloads from the device cache and has broken skin / character syncing across one account.
 
 ## What is the current solution to the issue if Mojang and Nintendo did not put the mash-up pack to multiple platforms?
-- People said <a href="https://www.planetminecraft.com/resources/?keywords=mario">using custom skins from the internet with mobile and PC as a solution</a>, but little did they know, if they were playing the game on PC, with an extra app to import the skin-pack, and some seriousness, they can also download the mash-up pack from the same internet and have enjoyed these on PC that was only used for Nintendo Switch players according to the BS.
-
-- our reasonings are two of proofs why no one gave a damn even though the mash-up pack is not available to be purchased in PC or mobile in the first place. these are Nintendo and Mojang's service (skill) issues. Should Nintendo and Mojang wake-up and put the mash-up pack to Minecraft (Marketplace) on PC and mobile, with no platform restrictions, so people can then get the mash-up pack on platforms people want in easier way?
+- People said <a href="https://www.planetminecraft.com/resources/?keywords=mario">using custom skins from the internet with mobile and PC as a solution</a>, but they can also download the mash-up pack itself from the same internet and have enjoyed these on PC with some workaorunds that was only used for Nintendo Switch players according to the BS.
 
 # For how it's worked, please check [here](./Platform-restriction-DRM-in-MCBE-1.20-the-hardest-callout-question.md), please note this is technical and would be deleted if it made karens mad.
