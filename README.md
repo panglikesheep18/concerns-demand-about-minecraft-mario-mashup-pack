@@ -60,8 +60,8 @@ For quick reason why it should be put (without also reading why the restriction 
 
 # For how it's worked, please check [here](./Platform-restriction-DRM-in-MCBE-1.20-the-hardest-callout-question.md), please note this is technical and would be deleted if it made karens mad.
 
-# How to act so the Super Mario Mash-up Pack could be made available to your device you view this (PC or mobile)?
+# How to act so the Super Mario Mash-up Pack could be made available to your device that was used to view this (PC or mobile)?
 - **Upvote** and express your experience affected by the "restrictions" or how it should be made available on your device at https://feedback.minecraft.net/hc/en-us/community/posts/360021759332--Licensed-Content-Super-Mario-mashup.
 - **Upvote** and share how to workaorund (perferrably on PC / mobile) at https://discord.com/channels/1138536747932864532/1298945468121878538
-- Ask 4J Studios to make the Super Mario Mash-up Pack available outside one single brand
-- Ask Nintendo to make Super Mario Mash-up Pack available outside one single brand
+- Ask 4J Studios to make the Super Mario Mash-up Pack available outside of one single brand
+- Ask Nintendo to make Super Mario Mash-up Pack available outside of one single brand
