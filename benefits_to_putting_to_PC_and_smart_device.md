@@ -25,9 +25,6 @@
 8. effectively fixed bugs without having to change how pop-ups work to the UI
 - fix one bug https://bugs.mojang.com/browse/MCPE-189600 by having the mash-up pack allowed on cross-platform multiplayer
 
-9. it would be more consistent to the physical game box i have and would no longer be deceptive
-- in fact, too consistent
-
 ### last but not least: **fixes the very issue i AM having**
 - i will be very happy to see this being put. i will no longer be mad if it was ever put to multiple platforms with cross-platform enabled.
 - **as i begged Minecraft Support, reported such to Mojang Bug Tracker, upvoted and posted suggestions for it on Minecraft Feedback, and even contacted Nintendo Customer Support (the one which has it's header licensing it) for this very issue. (not in order)** i hope the Super Mario Mash-up Pack was made available to other platforms of Minecraft very soon.
