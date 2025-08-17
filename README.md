@@ -4,7 +4,7 @@
 
 This is about a request and beg about Mojang and Nintendo that i want them to make Super Mario Mash-up Pack to multiple platforms (especially PC and mobile).
 
-For quick reason why it should be put (without also reading why the restriction is bad), please check [here](./reasons_to_put_to_PC_and_smart_device.md)
+For quick reason why it should be put (without also reading why the restriction is bad), please check [here](./benefits_to_putting_to_PC_and_smart_device.md)
 
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
