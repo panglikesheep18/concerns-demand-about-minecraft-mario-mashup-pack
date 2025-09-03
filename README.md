@@ -9,7 +9,7 @@ For quick reason why it should be put (without also reading why the restriction 
 # QNA
 ## Will you put contents from Super Mario Mash-up Pack there?
 - No, because then this will not be a honeypot and getting it removed from them will be fully justified.
-- Piracy is illegal regardless it's moral or not, because it is a form of unaurthorized distribution, even thoough this gives out the oppounity for users who do not wish to use Nintendo Switch to be able to use more freely on mobile and PC.
+- Piracy is illegal regardless it's moral or not, because it is a form of unaurthorized distribution, even though this gives out the oppounity for users who do not wish to use Nintendo Switch to be able to use more freely on mobile and PC.
 - i don't know if the extra $10 in Minecraft for Nintendo Switch is the cost of Super Mario Mash-up Pack, or it was the tax and the mash-up pack was actually free by using the word "include", either way i paid for it or i claimed that so i own it, but then i would either risk rich [karen](https://en.wikipedia.org/wiki/Karen_(slang)) threats for putting in or community backlash for not putting in. and since there's multiples of that in the internet, i am not going to risk rich [karen](https://en.wikipedia.org/wiki/Karen_(slang)) threats for putting it in anyways.
 - i want to get the mash-up pack in official way so bad
 
