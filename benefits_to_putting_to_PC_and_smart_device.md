@@ -17,7 +17,7 @@
 - as it was no longer platform-specific, and so no more anti-competition. Players who don't have Nintendo Switch can also play it
 
 6. (cross-platform) multiplayer is no longer forcefully disabled with the mash-up pack on
-- you could play the mash-up pack with those resource pack or skins from the mash-up pack, on platforms you like the most, with friends of any platform!
+- you could play the mash-up pack with those resource pack or skins from the mash-up pack, on platforms you like the most, with friends of any platform, meaning a lot more freedom!
 
 7. it's a W (win) to players, a W (win) to Mojang, a W (win) to MS and even a W (win) to Nintendo <!--if Nintendo ever was this fair 💀-->
 - for players, you can get the first five resons i listed above, for Mojang / Nintendo, it could also be profitable!
