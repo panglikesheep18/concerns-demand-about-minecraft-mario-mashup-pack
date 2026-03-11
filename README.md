@@ -19,7 +19,7 @@ For quick reason why it should be put (without also reading why the restriction 
 - For PC it's Microsoft Windows, for mobile it's iOS, iPadOS, Android and Fire.
 - Did not include XBOX and PS because these are consoles from Nintendo's competitors.
 
-- Overall creation of this repository is motivated entirely because the Super Mario Mash-up Pack is too restrictive and too specific and i very hate the restrictions put and i think the mash-up pack should be made usable on PC and mobile. Once the mash-up pack was officially made to PC and mobile, i would archive this repository.
+- Overall creation of this repository is motivated entirely because the Super Mario Mash-up Pack is too restrictive and too specific and i think the mash-up pack should be made usable on PC and mobile. Once the mash-up pack was officially made to PC and mobile, i would archive this repository.
   
 ### the beg was also about making Super Mario Mash-up Pack available to multiple platforms for following reasons (orders from common to horrible and ridiculous):
   - Super Mario Mash-up Pack's IP license / copyright was not on the thumbnail (but located in Settings>General), unlike current licensed contents in Minecraft Marketplace (this is the most obivious without any cracking, just buy a Nintendo Switch, the game and a licensed content from Minecraft Marketplace.)
@@ -35,7 +35,7 @@ For quick reason why it should be put (without also reading why the restriction 
    
 ### Proofs of the issue that make me support in flavor of making Super Mario Mash-up Pack to multiple platforms:
   - ~~The physical game card box does not have a disclaimer~~ no longer an issue to new copies since mid 2024
-  - Platform restriction feature is broken with [people's discovery of it taking too far in Create World Screen](https://bugs.mojang.com/browse/MCPE-189600)
+  - Platform restriction feature is broken with [people's discovery of it taking too far in Create World Screen](https://bugs.mojang.com/browse/MCPE-189600) and people and my discovery of it wrecking the experience ([MCPE-236202](https://bugs.mojang.com/browse/MCPE/issues/MCPE-236202) and [MCPE-236274](https://bugs.mojang.com/browse/MCPE/issues/MCPE-236274)) (see also [Deprecate / remove "platform / multiplayer restriction" variable entirely - Minecraft Feedback](https://feedback.minecraft.net/hc/en-us/community/posts/43526353304717-Deprecate-remove-platform-multiplayer-restriction-variable-entirely))
   - [Inconsistencies between the trailer and my experience, and even the video itself](https://bugs.mojang.com/browse/WEB-7134)
    
 ### Since October 2023, i have contacted Minecraft Support (part of Minecraft Help) for issues with the mash-up pack and if they could put it up (with Nintendo) to Minecraft Marketplace (for PC and mobile players to enjoy) because of piracy issue and i had to download Super Mario Mash-up Pack from the internet when i wanted to use it on other officially-supported platform because there is no way to get it in Minecraft Marketplace on PC and mobile officially, and they claimed that mash-up pack is already a Marketplace content, even though i cannot search for one on a catalog, and said they couldn't because it's 2 of the worst duo, licensing issue and (or) planned platform exclusivity. Until May 2024, over multiple attempts to ask / beg Minecraft to put the mash-up pack to multiple platforms, 3 of attempts resulted in Support staffs putting out reasons, with 2 of them being obviously "licensing issue" and the other one being planned platform exclusivity with no proper reasoning.
