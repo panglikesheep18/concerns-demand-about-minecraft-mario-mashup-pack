@@ -23,7 +23,7 @@
 - for players, you can get the first five resons i listed above, for Mojang / Nintendo, it could also be profitable!
 
 8. effectively fixed bugs without having to change how pop-ups work to the UI
-- fix one bug https://bugs.mojang.com/browse/MCPE-189600 by having the mash-up pack allowed on cross-platform multiplayer
+- fix one bug https://bugs.mojang.com/browse/MCPE-180557 by having the mash-up pack allowed on cross-platform multiplayer
 
 ### last but not least: **fixes the very issue i AM having**
 - i will be very happy to see this being put. i will no longer be mad if it was ever put to multiple platforms with cross-platform enabled.
