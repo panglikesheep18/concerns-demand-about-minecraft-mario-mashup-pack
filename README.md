@@ -55,7 +55,7 @@ For quick reason why it should be put (without also reading why the restriction 
 - https://twitter.com/NintendoAmerica/status/1620527350344450050
 - https://www.youtube.com/watch?v=3TsDr9Qow94 ([most inconsistent with disclaimer at 0:51 being against a footage in 0:33 to 0:35](https://bugs.mojang.com/browse/WEB-7134)
 
-## How is the Super Mario Mash-up Pack gate-kept (platform-restricted) on Nintendo Switch and Switch 2, so it cannot be used with players of other platforms?
+## How is the Super Mario Mash-up Pack gate-kept (platform-restricted) on Nintendo Switch and Switch 2, so it cannot be used for when players of other platforms may join?
 - The skin is disallowed to be played with cross-platform multiplayer enabled
 - The skin blocks players from joining Realms
 - The skin can't be equipped in cross-platform multiplayer without workarounds
