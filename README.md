@@ -55,6 +55,14 @@ For quick reason why it should be put (without also reading why the restriction 
 - https://twitter.com/NintendoAmerica/status/1620527350344450050
 - https://www.youtube.com/watch?v=3TsDr9Qow94 ([most inconsistent with disclaimer at 0:51 being against a footage in 0:33 to 0:35](https://bugs.mojang.com/browse/WEB-7134)
 
+## How is the Super Mario Mash-up Pack platform-restricted on Nintendo Switch, so it cannot be used with players of other platforms?
+- The skin is disallowed to be played with cross-platform multiplayer enabled
+- The skin blocks players from joining Realms
+- The skin can't be equipped in cross-platform multiplayer without workarounds
+- The resource pack is disallowed to be played with (cross-platform) multiplayer enabled
+- The world can't be played with cross-platform multiplayer enabled (even if visually enabled, cross-platform multiplayer gets disabled autonomously)
+- Since Bedrock Edition 26.52, the skin is forcefully unequipped in cross-platform multiplayer, replacing that with a failover / default skin
+
 ## What is the current solution to the issue if Mojang and Nintendo did not put the mash-up pack to multiple platforms?
 - Community ports / workarounds, people said <a href="https://www.planetminecraft.com/resources/?keywords=mario">using custom skins from the internet with mobile and PC as a solution</a>, and recently, [community workarounds](https://mojira.dev/?project=MCPE&search=mario) of the mash-up pack can be downloaded and played on devices you like!
 # For how it's worked, please check [here](./Platform-restriction-DRM-in-MCBE-1.20-the-hardest-callout-question.md), please note this is technical and would be deleted if it made karens mad.
