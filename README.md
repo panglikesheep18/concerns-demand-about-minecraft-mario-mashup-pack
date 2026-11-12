@@ -59,9 +59,10 @@ For quick reason why it should be put (without also reading why the restriction 
 - The skin is disallowed to be played with cross-platform multiplayer enabled
 - The skin blocks players from joining Realms
 - The skin can't be equipped in cross-platform multiplayer without workarounds
-- The resource pack is disallowed to be played with (cross-platform) multiplayer enabled
+- The resource pack is disallowed to be played with (cross-platform) multiplayer enabled (before 1.21.60, only platform-specific multiplayer was allowed)
 - The world can't be played with cross-platform multiplayer enabled (even if visually enabled, cross-platform multiplayer gets disabled autonomously)
-- Since Bedrock Edition 26.52, the skin is forcefully unequipped in cross-platform multiplayer, replacing that with a failover / default skin
+- Since Bedrock Edition 26.52, the skin is forcefully unequipped in cross-platform multiplayer, replacing that with a failover / default skin, this also defeats workarounds without requiring an add-on.
+- Mash-up pack in Switch 2 (can be claimed in Minecraft Marketplace for Switch 2) does not sync with players of other platforms (PC and mobile), because it does not exist there.
 
 ## What is the current solution to the issue if Mojang and Nintendo did not put the mash-up pack to multiple platforms?
 - Community ports / workarounds, people said <a href="https://www.planetminecraft.com/resources/?keywords=mario">using custom skins from the internet with mobile and PC as a solution</a>, and recently, [community workarounds](https://mojira.dev/?project=MCPE&search=mario) of the mash-up pack can be downloaded and played on devices you like!
