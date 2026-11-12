@@ -62,7 +62,7 @@ For quick reason why it should be put (without also reading why the restriction 
 - The resource pack is disallowed to be played with (cross-platform) multiplayer enabled (before 1.21.60, only platform-specific multiplayer was allowed)
 - The world can't be played with cross-platform multiplayer enabled (even if visually enabled, cross-platform multiplayer gets disabled autonomously)
 - Since Bedrock Edition 26.52, the skin is forcefully unequipped in cross-platform multiplayer, replacing that with a failover / default skin, this also defeats workarounds without requiring an add-on.
-- Mash-up pack in Switch 2 (can be claimed in Minecraft Marketplace for Switch 2) does not sync with of other platforms (PC and mobile), even if the same Microsoft Account was used in these two (or all), because it does not exist in Minecraft Marketplace for PC and mobile.\
+- Mash-up pack in Switch 2 (can be claimed in Minecraft Marketplace for Switch 2) does not sync with other platforms (PC and mobile), even if the same Microsoft Account was used in these two (or all), because the mash-up pack does not exist (and / or cannot be accessed) in Minecraft Marketplace for PC and mobile.\
 Asides the last symptom, None of which appeared in community ports / patches.
 
 ## What is the current solution to the issue if Mojang and Nintendo did not put the mash-up pack to multiple platforms?
